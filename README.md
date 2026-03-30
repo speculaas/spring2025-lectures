@@ -2,6 +2,14 @@
 
 This repo contains the lecture materials for "Stanford CS336: Language modeling from scratch".
 
+## Provenance
+
+This repository is a personal copy of course materials originally from:
+https://github.com/stanford-cs336/spring2025-lectures
+
+The original repository may no longer be publicly accessible.
+This copy is maintained for personal educational use only.
+
 ## Non-executable (ppt/pdf) lectures
 
 Located in `nonexecutable/`as PDFs
